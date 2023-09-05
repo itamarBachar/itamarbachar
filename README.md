@@ -35,9 +35,8 @@ Client - Android:
 Intuitive interface, real-time messaging, notifications, offline support, and contact & group management.
 Client - Web (React):
 Responsive design, real-time updates, notification alerts, and integrated user management.
-Link to ChatWave Repository (Replace with the actual link to your project repository)
+You can see the repository down below.
 
-... and many more. Feel free to explore my repositories to learn more about each project!
 
 ## :rocket: Languages and Tools
 - Python
