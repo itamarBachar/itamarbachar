@@ -38,8 +38,8 @@ Over the years, I've had the privilege of working on several coding projects spa
 - [Add more languages or tools you are familiar with]
 
 ## :mailbox: Contact Me
-- **LinkedIn**: [Itamar's LinkedIn](#)
-- **Email**: your.email@example.com
+- **LinkedIn**: [[Itamar's LinkedIn](#)](https://www.linkedin.com/in/itamar-bachar/)
+- **Email**: itamarb25@gmail.com
 
 If you're interested in collaborating on a project, or just want to chat, feel free to reach out! I'm always eager to connect with fellow tech enthusiasts.
 
