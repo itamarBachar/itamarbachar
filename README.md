@@ -21,6 +21,8 @@ Hello! :wave: My name is Itamar Bachar. I'm a Computer Science master's student 
 ## :mortar_board: Education
 - **Master's in Computer Science**  
   Currently pursuing my master's degree in Computer Science, diving deep into advanced topics and expanding my knowledge every day.
+- ** Bachelor's in Computer Science
+Earned my Bachelor's degree, laying a strong foundation in the principles of computer science and software development.
 
 ## :hammer_and_wrench: Projects
 Over the years, I've had the privilege of working on several coding projects spanning multiple languages. Here's a brief overview:
