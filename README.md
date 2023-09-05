@@ -29,7 +29,7 @@ Over the years, I've had the privilege of working on several coding projects spa
 
 ChatApp: Multi-Platform Chat Application
 Description:
-ChatWave is a dynamic chat application aimed at delivering fast, secure, and consistent messaging experiences across different platforms. With a backend powered by .NET and clients developed for Android and web using React, it's designed to be scalable, responsive, and user-friendly.
+ChatApp is a dynamic chat application aimed at delivering fast, secure, and consistent messaging experiences across different platforms. With a backend powered by .NET and clients developed for Android and web using React, it's designed to be scalable, responsive, and user-friendly.
 
 Server (Backend - .NET):
 Secure user authentication, real-time messaging, message storage, user presence system, group chats, and a RESTful API.
