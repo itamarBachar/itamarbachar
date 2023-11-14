@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 Hello! :wave: My name is Itamar Bachar. I'm a Computer Science master's student passionate about code, technology, and innovation.
 
-## :mortar_board: Education
-- **Master's in Computer Science**  
-  Currently pursuing my master's degree in Computer Science, diving deep into advanced topics and expanding my knowledge every day.
 - Bachelor's in Computer Science
 Earned my Bachelor's degree, laying a strong foundation in the principles of computer science and software development.
 
