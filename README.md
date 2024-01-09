@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Itamar Bachar :computer:
 
-Hello! :wave: My name is Itamar Bachar. I'm a Computer Science student passionate about code, technology, and innovation.
+Hello! :wave: My name is Itamar Bachar. I'm  passionate about code, technology, and innovation.
 
 - Bachelor's in Computer Science
 Earned my Bachelor's degree, laying a strong foundation in the principles of computer science and software development.
